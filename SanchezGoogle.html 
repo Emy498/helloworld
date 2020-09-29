@@ -1,0 +1,15 @@
+<img
+src="https://miro.medium.com/max/500/0*W_3koJ9hFcRFHr6l.jpg">
+<h3>Search the web using Google
+</h3>
+<input type="text" id="Search" name="Search">
+<br>
+<div>
+  <button onclick="searchButton()">Google Search</button><button onclick="luckButton()">I'm Feel Lucky!</button>
+</div>
+<br>
+<a href+"google.com">More Google!
+</a>
+<p>
+  Copyright 1999 Google Inc.
+</p>
